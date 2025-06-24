@@ -30,20 +30,5 @@ This tool was developed to demonstrate how security monitoring systems can be **
 
 ---
 
-## 📸 Alert Example
-
-![Pushbullet Alert Screenshot](alert-screenshot.png)  
-*Screenshot of a Pushbullet message triggered from the system.*
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repo or download the `.ipynb` file.
-2. Install required libraries:
-   ```bash
-   pip install ipywidgets requests
-3. Make sure to generate your Pushbullet Access Token from:
-👉 https://www.pushbullet.com/#settings
-4. Replace your API key in the notebook
-5. Run the notebook and test the monitoring system.
+> 🚧 This project is currently under active development.  
+> Expect frequent updates and improvements!
